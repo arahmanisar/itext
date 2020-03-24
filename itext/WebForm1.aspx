@@ -5,7 +5,7 @@
         <div>
             <b>CODE SCRATCHER</b><br />
             <br />
-            Dear candidate,<br />
+            Dear candidates,<br />
             <br />
             <b>After get material don't forget to Like on FB :</b> <a href="https://www.facebook.com/thecodescratcher"
                 target="_blank" style="color: #292929; text-decoration: none;">https://www.facebook.com/thecodescratcher</a><br />
