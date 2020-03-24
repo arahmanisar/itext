@@ -46,6 +46,6 @@
     <br />
     <br />
     <center>
-        <asp:Button ID="btnClick" runat="server" OnClick="btnClick_Click" style="Height:30px" Text="HTML Download as PDF" />
+        <asp:Button ID="btnClick" runat="server" OnClick="btnClick_Click" style="Height:30px" Text="HTML Download as PDF 2" />
     </center>
 </asp:Content>
